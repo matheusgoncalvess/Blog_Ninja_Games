@@ -1,2 +1,2 @@
-# Blog_Ninja_Games
- 
+# Projeto_Blog_Games
+ Blog sobre assunto de Video Game
